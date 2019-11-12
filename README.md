@@ -4,6 +4,8 @@ Paso 2 ejecutar npm i --save-dev fs-extra concat
 Paso 3 ng build --prod --output-hashing none && node concatenate.js
 video de referencia https://www.youtube.com/watch?v=-xd56yFrsPY
 
+![Implementación ](https://github.com/devjaime/elements/blob/master/documentacion/elements.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
 ## Development server
